@@ -1,0 +1,208 @@
+[{
+  "name": "Admin User",
+  "email": "admin@test.com",
+  "password": "Admin@123",
+  "role": "admin"
+},
+{
+  "name": "Recruiter User",
+  "email": "recruiter@test.com",
+  "password": "Recruiter@123",
+  "role": "recruiter"
+},
+{
+  "name": "Student One",
+  "email": "student1@test.com",
+  "password": "Student@1",
+  "role": "student"
+},
+{
+  "name": "Student Two",
+  "email": "student2@test.com",
+  "password": "Student@2",
+  "role": "student"
+}
+]
+
+
+{
+  "token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjY5MmVkOTJkNTMwYjc1YTYyNTU5YWQ0MiIsInJvbGUiOiJhZG1pbiIsImlhdCI6MTc2NDY3NzkzMywiZXhwIjoxNzY1MjgyNzMzfQ.dPz1Z1K6QdHT_Y680JJxv9le_cNxJAhPcB65DDQ779I",
+  "user": {
+    "id": "692ed92d530b75a62559ad42",
+    "name": "Admin User",
+    "email": "admin@test.com",
+    "role": "admin"
+  }
+}
+{
+  "token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjY5MmVkOTQ5NTMwYjc1YTYyNTU5YWQ0NCIsInJvbGUiOiJyZWNydWl0ZXIiLCJpYXQiOjE3NjQ2Nzc5NjEsImV4cCI6MTc2NTI4Mjc2MX0.wg8qw0ZzHv1dwe4SoAGebzgf8-70FXfSVBCPe1ehuNU",
+  "user": {
+    "id": "692ed949530b75a62559ad44",
+    "name": "Recruiter User",
+    "email": "recruiter@test.com",
+    "role": "recruiter"
+  }
+}
+{
+  "token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjY5MmVkOTYzNTMwYjc1YTYyNTU5YWQ0NiIsInJvbGUiOiJzdHVkZW50IiwiaWF0IjoxNzY0Njc3OTg3LCJleHAiOjE3NjUyODI3ODd9.jzTk4OpOP6eEKhtB8PAydquUoBNFkcywUDAWi1YT7l8",
+  "user": {
+    "id": "692ed963530b75a62559ad46",
+    "name": "Student One",
+    "email": "student1@test.com",
+    "role": "student"
+  }
+}
+{
+  "token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjY5MmVkOTc3NTMwYjc1YTYyNTU5YWQ0OCIsInJvbGUiOiJzdHVkZW50IiwiaWF0IjoxNzY0Njc4MDA3LCJleHAiOjE3NjUyODI4MDd9.yMv__tkc0Ht1mfcK5kI_k4EtsEl5UVQh0zlXdn9RIO0",
+  "user": {
+    "id": "692ed977530b75a62559ad48",
+    "name": "Student Two",
+    "email": "student2@test.com",
+    "role": "student"
+  }
+}
+
+recur login t: eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjY5MmVkOTQ5NTMwYjc1YTYyNTU5YWQ0NCIsInJvbGUiOiJyZWNydWl0ZXIiLCJpYXQiOjE3NjQ2NzkwNjMsImV4cCI6MTc2NTI4Mzg2M30.Iabx7JY_ukw6oU8zG9cS4_NanLx4B_rsJXZu_y5vUYI
+
+admin login t:
+eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjY5MmVkOTJkNTMwYjc1YTYyNTU5YWQ0MiIsInJvbGUiOiJhZG1pbiIsImlhdCI6MTc2NDY3OTExNywiZXhwIjoxNzY1MjgzOTE3fQ.8Tajy2JclCuEC9k1yKcNENbxDh7U7S-d_2QZAogW0xM
+
+student1 login t:
+eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjY5MmVkOTYzNTMwYjc1YTYyNTU5YWQ0NiIsInJvbGUiOiJzdHVkZW50IiwiaWF0IjoxNzY0Njc5OTExLCJleHAiOjE3NjUyODQ3MTF9.YGnq9UiD8UNRiw_enW5oWMsJRgZXT0pDBPmRVQc3uyQ
+
+student2 login t:
+eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjY5MmVkOTc3NTMwYjc1YTYyNTU5YWQ0OCIsInJvbGUiOiJzdHVkZW50IiwiaWF0IjoxNzY0Njc5OTUwLCJleHAiOjE3NjUyODQ3NTB9.DRlR6y6I1PMjtLQHB9d1BIkwmvYs6sN2ojn6WLNOfZQ
+
+campanies-------
+
+{
+  "name": "Nxtwave",
+  "industry": "Edutech",
+  "website": "https://nxtwave.com",
+  "location": "Hyderabad",
+  "description": "Leading software solutions company.",
+  "logo": {
+    "url": "https://res.cloudinary.com/demo/image/upload/v1234567890/techcorp_logo.png",
+    "public_id": "nxtwave_logo"
+  }
+}-----id :692edf89530b75a62559ad5c
+{
+  "name": "NextGen Solutions",
+  "industry": "AI & Robotics",
+  "website": "https://nextgensolutions.com",
+  "location": "Mumbai",
+  "description": "Innovating AI-driven solutions for industries.",
+  "logo": {
+    "url": "https://res.cloudinary.com/demo/image/upload/v1234567892/nextgen_logo.png",
+    "public_id": "nextgen_logo"
+  }
+}------id: 692edfcc530b75a62559ad5f
+
+
+----Drives-----
+{
+  "data": [
+    {
+      "eligibility": {
+        "minCgpa": 7,
+        "departments": [
+          "CSE",
+          "IT",
+          "ECE"
+        ]
+      },
+      "_id": "692ee2a603ce2243a558dffa",
+      "company": {
+        "_id": "692edf89530b75a62559ad5c",
+        "name": "Nxtwave"
+      },
+      "title": "Nxtwave Campus Drive - 2025",
+      "description": "Recruitment drive for software developer positions.",
+      "date": "2025-12-15T10:00:00.000Z",
+      "venue": "Nxtwave Hyderabad Office",
+      "registeredStudents": [],
+      "createdAt": "2025-12-02T12:59:18.958Z",
+      "updatedAt": "2025-12-02T12:59:18.958Z",
+      "__v": 0
+    },
+    {
+      "eligibility": {
+        "minCgpa": 8,
+        "departments": [
+          "CSE",
+          "Data Science"
+        ]
+      },
+      "_id": "692ee2d203ce2243a558dffd",
+      "company": {
+        "_id": "692edfcc530b75a62559ad5f",
+        "name": "NextGen Solutions"
+      },
+      "title": "NextGen AI Drive",
+      "description": "Hiring for AI & ML roles for fresh graduates.",
+      "date": "2025-12-20T10:00:00.000Z",
+      "venue": "NextGen Bangalore Office",
+      "registeredStudents": [],
+      "createdAt": "2025-12-02T13:00:02.718Z",
+      "updatedAt": "2025-12-02T13:00:02.718Z",
+      "__v": 0
+    },
+    {
+      "eligibility": {
+        "minCgpa": 6.5,
+        "departments": [
+          "CSE",
+          "IT",
+          "ECE"
+        ]
+      },
+      "_id": "692ee32303ce2243a558e000",
+      "company": {
+        "_id": "692edf89530b75a62559ad5c",
+        "name": "Nxtwave"
+      },
+      "title": "Nxtwave Internship Drive",
+      "description": "Internship opportunities for students in TechCorp Hyderabad.",
+      "date": "2025-12-25T10:00:00.000Z",
+      "venue": "Nxtwave Hyderabad Office",
+      "registeredStudents": [],
+      "createdAt": "2025-12-02T13:01:23.806Z",
+      "updatedAt": "2025-12-02T13:01:23.806Z",
+      "__v": 0
+    }
+  ],
+  "meta": {
+    "total": 3,
+    "page": 1,
+    "limit": 10
+  }
+}
+
+---drive1-student1-registered---
+{
+  "message": "Registered",
+  "drive": {
+    "eligibility": {
+      "minCgpa": 7,
+      "departments": [
+        "CSE",
+        "IT",
+        "ECE"
+      ]
+    },
+    "_id": "692ee2a603ce2243a558dffa",
+    "company": "692edf89530b75a62559ad5c",
+    "title": "Nxtwave Campus Drive - 2025",
+    "description": "Recruitment drive for software developer positions.",
+    "date": "2025-12-15T10:00:00.000Z",
+    "venue": "Nxtwave Hyderabad Office",
+    "registeredStudents": [
+      "692ed963530b75a62559ad46"
+    ],
+    "createdAt": "2025-12-02T12:59:18.958Z",
+    "updatedAt": "2025-12-02T13:20:49.504Z",
+    "__v": 1
+  }
+}
+692eed9ffa6bffa06dbb07ec
+
